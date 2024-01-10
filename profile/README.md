@@ -30,7 +30,7 @@ Special thanks to all our contributors:
                 <a href="https://github.com/drewmoseley">Drew Moseley</a>
             </td>
             <td>
-                <p align="center"> 💻 </p>
+                <p align="center"> 🐛 💻 </p>
             </td>
             <td>
                 <img src="https://avatars.githubusercontent.com/u/94637?v=4" height="120" />
@@ -39,7 +39,18 @@ Special thanks to all our contributors:
                 <a href="https://github.com/EstebanSannin">Stefano Viola</a>
             </td>
             <td>
-                <p align="center"> 💻📢 </p>
+                <p align="center"> 💻 📢 </p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <img src="https://avatars.githubusercontent.com/u/123564142?v=4" height="120" />
+            </td>
+            <td>
+                <a href="https://github.com/drewmoseley">Leon Held</a>
+            </td>
+            <td>
+                <p align="center"> 💻 📦 </p>
             </td>
         </tr>
     </table>
@@ -66,6 +77,8 @@ These are the projects that are part of the Common Torizon organization:
 | [tdx-info](https://github.com/commontorizon/tdx-info)                             | Script to get useful information about Torizon software and hardware         |
 | [u-boot](https://github.com/commontorizon/u-boot)                                 | Experimental u-boot for Common TorizonCore                                   |
 | [Documentation](https://github.com/commontorizon/Documentation)                   | Common TorizonCore specific documentation                                    |
+| [Containerfiles](https://github.com/commontorizon/Containerfiles)                 | Common TorizonCore specific Container images recipes                         |
+| [debian](https://github.com/commontorizon/debian)                                 | Common TorizonCore specific debian packages                                  |
 
 ## Acknowledgements
 
