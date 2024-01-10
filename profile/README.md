@@ -47,7 +47,7 @@ Special thanks to all our contributors:
                 <img src="https://avatars.githubusercontent.com/u/123564142?v=4" height="120" />
             </td>
             <td>
-                <a href="https://github.com/drewmoseley">Leon Held</a>
+                <a href="https://github.com/leonheldattoradex">Leon Held</a>
             </td>
             <td>
                 <p align="center"> 💻 📦 </p>
