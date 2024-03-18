@@ -23,6 +23,7 @@ Special thanks to all our contributors:
             <th></th>
         </tr>
         <tr>
+            <!-- START USER CARD -->
             <td>
                 <img src="https://avatars.githubusercontent.com/u/1001846?v=4" height="120" />
             </td>
@@ -32,6 +33,8 @@ Special thanks to all our contributors:
             <td>
                 <p align="center"> 🐛 💻 </p>
             </td>
+            <!-- END USER CARD -->
+            <!-- START USER CARD -->
             <td>
                 <img src="https://avatars.githubusercontent.com/u/94637?v=4" height="120" />
             </td>
@@ -41,8 +44,10 @@ Special thanks to all our contributors:
             <td>
                 <p align="center"> 💻 📢 </p>
             </td>
+             <!-- END USER CARD -->
         </tr>
         <tr>
+             <!-- START USER CARD -->
             <td>
                 <img src="https://avatars.githubusercontent.com/u/123564142?v=4" height="120" />
             </td>
@@ -52,6 +57,42 @@ Special thanks to all our contributors:
             <td>
                 <p align="center"> 💻 📦 </p>
             </td>
+            <!-- END USER CARD -->
+            <!-- START USER CARD -->
+            <td>
+                <img src="https://avatars.githubusercontent.com/u/1486?v=4" height="120" />
+            </td>
+            <td>
+                <a href="https://github.com/tronical">Simon Hausmann</a>
+            </td>
+            <td>
+                <p align="center"> 📦 </p>
+            </td>
+            <!-- END USER CARD -->
+        </tr>
+        <tr>
+            <!-- START USER CARD -->
+            <td>
+                <img src="https://avatars.githubusercontent.com/u/7683256?v=4" height="120" />
+            </td>
+            <td>
+                <a href="https://github.com/EdTheBearded">Eduardo Ferreira </a>
+            </td>
+            <td>
+                <p align="center"> 💻 </p>
+            </td>
+            <!-- END USER CARD -->
+            <!-- START USER CARD -->
+            <td>
+                <img src="https://avatars.githubusercontent.com/u/7726309?v=4" height="120" />
+            </td>
+            <td>
+                <a href="https://github.com/leograba">Leonardo Graboski Veiga </a>
+            </td>
+            <td>
+                <p align="center"> 💻🐛📖  </p>
+            </td>
+             <!-- END USER CARD -->
         </tr>
     </table>
 </div>
