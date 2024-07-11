@@ -4,9 +4,9 @@
 <img src="https://github.com/commontorizon/.github/blob/main/profile/commonTorizonCover.png?raw=true" height="120" />
 </p>
 
-Common Torizon is a community driven derivative work from TorizonCore open source project. It aims to extending the Torizon ecosystem beyond Toradex SoMs.
+Common Torizon is a community driven derivative work from Torizon OS open source project. It aims to extending the Torizon ecosystem beyond Toradex SoMs.
 
-[Torizon](https://www.toradex.com/torizon) is an embedded computing platform that enables robust, scalable, and easy-to-maintain software. The Torizon primary component is [TorizonCore](https://www.toradex.com/operating-systems/torizon-core): a minimal embedded Linux image featuring, among other essential services, a container runtime and components for secure offline and remote over-the-air (OTA) update.
+[Torizon](https://www.toradex.com/torizon) is an embedded computing platform that enables robust, scalable, and easy-to-maintain software. The Torizon primary component is [Torizon OS](https://www.toradex.com/operating-systems/torizon-core): a minimal embedded Linux image featuring, among other essential services, a container runtime and components for secure offline and remote over-the-air (OTA) update.
 
 ## Contributors
 
@@ -113,13 +113,13 @@ These are the projects that are part of the Common Torizon organization:
 
 | Project                                                                           | Description                                                                  |
 | --------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
-| [meta-common-torizon](https://github.com/commontorizon/meta-common-torizon)       | Common TorizonCore meta layer                                                |
-| [commontorizon-manifest](https://github.com/commontorizon/commontorizon-manifest) | Manifest and VS Code configuration to quick start a Common TorizonCore build |
+| [meta-common-torizon](https://github.com/commontorizon/meta-common-torizon)       | Common Torizon OS meta layer                                                |
+| [commontorizon-manifest](https://github.com/commontorizon/commontorizon-manifest) | Manifest and VS Code configuration to quick start a Common Torizon OS build |
 | [tdx-info](https://github.com/commontorizon/tdx-info)                             | Script to get useful information about Torizon software and hardware         |
-| [u-boot](https://github.com/commontorizon/u-boot)                                 | Experimental u-boot for Common TorizonCore                                   |
-| [Documentation](https://github.com/commontorizon/Documentation)                   | Common TorizonCore specific documentation                                    |
-| [Containerfiles](https://github.com/commontorizon/Containerfiles)                 | Common TorizonCore specific Container images recipes                         |
-| [debian](https://github.com/commontorizon/debian)                                 | Common TorizonCore specific debian packages                                  |
+| [u-boot](https://github.com/commontorizon/u-boot)                                 | Experimental u-boot for Common Torizon OS                                   |
+| [Documentation](https://github.com/commontorizon/Documentation)                   | Common Torizon OS specific documentation                                    |
+| [Containerfiles](https://github.com/commontorizon/Containerfiles)                 | Common Torizon OS specific Container images recipes                         |
+| [debian](https://github.com/commontorizon/debian)                                 | Common Torizon OS specific debian packages                                  |
 
 ## Acknowledgements
 
